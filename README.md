@@ -1,5 +1,5 @@
 # Estudiante de programación/Programming Student - Madrid
-## Grado superior de Desarrollo de Aplicaciones Multiplataforma
+## Grado superior de Desarrollo de Aplicaciones Multiplataforma/Cross-platform application development
 ### Leguajes de programación/Programming Language:
   - Java
   - C#
